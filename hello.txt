@@ -1,1 +1,5 @@
-
+Hello!
+Remember:
+1. Add
+2. Commit
+3. Push
